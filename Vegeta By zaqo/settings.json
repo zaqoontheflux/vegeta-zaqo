@@ -1,0 +1,23 @@
+{
+    "token":"Token du bot ici",
+    "prefix":"Prefix ici",
+    "BLACK_LIST": ["discord.gg/", "discord.gg", "discord.gg/lazone", "https://discord.gg", "dox", "https://youtube", "https://instagram", "https://twitter", ".fr", ".net", ".org", "nude"],
+    "reactionRole": {
+        "ID DU MESSAGE": {
+            "emojis": [{
+                "id": "ID DE L'EMOJI PERSO",
+                "roles": "ID DU ROLE"
+            }]
+        },
+        "ID DU MESSAGE": {
+            "removable": true,
+            "emojis": [{
+                "name": "💻",
+                "roles": ["ID DU ROLE", "ID DU ROLE"]
+            }, {
+                "name": "🎮",
+                "roles": "ID DU ROLE"
+            }]
+        }
+    }
+}
